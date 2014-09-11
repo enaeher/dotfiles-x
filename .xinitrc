@@ -1,0 +1,2 @@
+. ~/.xinitrc-common
+exec notion

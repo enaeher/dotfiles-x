@@ -1,0 +1,5 @@
+urxvt.font: xft:Inconsolata:size=13
+urxvt.foreground: white
+urxvt.transparent: true
+urxvt.scrollBar: false
+urxvt.depth: 256
