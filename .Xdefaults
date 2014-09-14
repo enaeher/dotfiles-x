@@ -3,3 +3,5 @@ urxvt.foreground: white
 urxvt.transparent: true
 urxvt.scrollBar: false
 urxvt.depth: 256
+urxvt.background: black
+urxvt.scrollBar: false
